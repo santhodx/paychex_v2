@@ -1,0 +1,8 @@
+Payroll, total = $423100
+   Department 1, total = $323100
+      Employee 1, Developer, $105000
+      Employee 2, Manager, $123100
+      Department 2, total = $95000
+         Employee 3, Developer, $95000
+   Department 3, total = $100000
+      Employee 4, Developer, $100000
